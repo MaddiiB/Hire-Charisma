@@ -3,10 +3,12 @@ img{
 }
 p{
     font-size:25px;
+    font-family: 'Spicy Rice', cursive;
 }
 h2{
     font-size:25px;
     color:#7e6ff3;
+    font-family: 'Spicy Rice', cursive;
 }
 body{
     background:purple;
